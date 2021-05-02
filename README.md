@@ -1,1 +1,5 @@
-# python-intuit-quickbooks-project
+# Python Intuit Quickbooks Project
+
+## Installation
+run 'python install -r requirements.txt'
+
